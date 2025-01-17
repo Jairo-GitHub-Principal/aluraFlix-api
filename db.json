@@ -21,6 +21,24 @@
                   "img": "https://s3-alpha-sig.figma.com/img/a674/13ce/921a6389c9afc41cb402e5d88f0a4f77?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SGV33cQ5js3WeFtZk0i0r74dvv7j-Nuy7Ws-LLnfIBY4zz3FrGpxbJucqBlOynnDrwOjiH3G4ipAjMbXHf4VO9Y8f5TqD7gp-O3QDaIPvyjEhQYME~jw7Nn4togbQV9nlF1ioR2lGXiosqbLSt7jgEnyoVV0DXhuNBlb~FLZRZZ~kisd~IcB-3IDxntLLtS2Z4cYB0uLntdYPaAWyowByn5qfNmpNVXevXq0ZrrzK~ysnLpFS2QK8GjjpY2w4w2~~~ydCscaSDNouLrqEITBpOMQja32-hL4PeKUHy9jdAUTecqCO4vRDJq5jAiYQNh~-yWOx4K2j5FbpvWTe6atfg__",
                   "src": "https://www.youtube.com/embed/wXMlMsDvk2M?si=hkjy4IzeOFM8Rx7h",
                   "id": "3"
+                },
+                {
+                  "categoria": "Front End",
+                  "img": "https://s3-alpha-sig.figma.com/img/6c2c/1a0a/6090ee6fcfafcda1093c009e506d7a42?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qhCsV5vt2axnM1Gln9U3ZA8UTV9qu6U~bQGwowDutSIG2~CQqmWghjWVhZhqpgcZeQU9vLaJPdFATjgqIWNxbNa3Ist21IvvZfI74ECwUCga2Oy-rl3C7FaYcFVtvtwm~Ldokg8ASbERSQ4GE~BWk0wGjQfFnVSM3VJ5SUaqNILRi4Gq7ZKYTcOgqCrtNx4lylg9kdZVcnTKEjch~tRc6~~xpIGkLVN~qfx4QkiiRMyWm-dFFHfKroLBZnSmFSkZiXeVgEnzX7UcGbYqNlMsq1ZuyI~44jZYE8TKOltxeX-4Q6vOMpwz39Hcow6kcvvc74MSVf5-ivPEQDuxZ5iW1g__",
+                  "src": "https://www.youtube.com/embed/xrRy3RI3HE4?si=PPCYItaED-mOAiw7",
+                  "id": "4"
+                },
+                {
+                  "categoria": "Back End",
+                  "img": "https://s3-alpha-sig.figma.com/img/cbd7/dbda/25110b0f35786393dc14dac9ce1002c4?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=O3l-irjo0wn4BhWM3LeEu5FWuj555-GehG2YDBJtBGEKZuUfawecqNn5Fc4qFjyTxyj9WmLenHhbyXgTvoYlMLvVq0Lu2P9IQLkBG6wXiTR45Gx3F1Xw9IfJo~1RcYhF9pAuFxbgIxY5KmKxQEzILBv96r8nda9tOGaCEEMyoTMo-E5kjqRLkPHMkam8psJ6hLi9ZxbB5WIr5LWCR6ubRJPIgnB0Upf~So~t4R2yZsSLmpvyXabgv3TvWoCE1D9okk6FPxT9nHybHz7tMI9F60f7OxYiO8YsOXID~0v59RTYUAx049PRF6JlkIo1j-NDPVSsEBUp7EAIfuhu6F~fjQ__",
+                  "src": "https://www.youtube.com/embed/2z6f8VN_Pro?si=yS8XovruUUne5PT3",
+                  "id": "5"
+                },
+                {
+                  "categoria": "Back End",
+                  "img": "https://s3-alpha-sig.figma.com/img/e268/8232/062bbf4bd15d0d94cd3c07c0162f561c?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fAMWK-CRXreZuYTDsIFdswYAjunQqXjrfvumNrNjgwONtcXuNEylC3igY~qMJW-WpgoauG3mOCusiSQfK8sCCBu6wkVYbrK6IRfmR-dizWOmVkm33tJwMOuEQMTpSspJoMQhATM0m5OfEJ4KVzPkMwCntTdPbY~weJCMF6-rBeIEbiMBicjt3vWO7RMlBjOFU~Z-yuOdCWe-jtJTGVnc5o6TVIkLpyd8JQkI9SMIuoqA3tXH5iox4LtBkU4YFU380a8hxfS0j-RwvaOlqsjv9T9uzRxiQxWhGp38pjXIuM5pwkgq6dmfH~QwncSmeGPKl1op3F~oZZBrLl0R1aU9hw__",
+                  "src": "https://www.youtube.com/embed/fmu1LQvZhms?si=a5BrON5_Tp6VV1Xh",
+                  "id": "6"
                 }
             ]
 }
