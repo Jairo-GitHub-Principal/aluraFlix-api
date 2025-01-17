@@ -1,6 +1,5 @@
 {
   "videos": [
-    
     {
       "titulo": "jairo",
       "categoria": "Back End",
@@ -61,7 +60,7 @@
       "id": "13"
     },
 
-     {
+    {
       "titulo": "jairo",
       "categoria": "Back End",
       "img": "https://s3-alpha-sig.figma.com/img/b835/e79f/4405eb8f4b516ca01de1f4df6c096f27?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NVFKhYwVOrfEF~QY~DxNfoN1Nwc6G0~LjuBMhcOD-DSJfh2fam3~2Vb9z9N~438oXEi19rmX0f2rWhGRWoA1PEOw-ncwMGzTMvIQzskG51d1uNvZCf9mQscV93Lb8~wmFO1p3aU7dSWM1i9OR6c42XZKFj7o12u0KUBfxTaWUwdI45saq02Ua0NAXOF8yWCWalR75l24tVrrgiWhVsYaPljWh6tdb1179nhRFkOjVRZ9lWscc3o9bKLrpT9bDeK-MispUn6rSlECA17FCSUdIfLy-5iL1MirqYxhEEWxLvN9J-QR00wp9p1D~n2jxlcDv5GaEbvqo3JCaGvgI5ZF6Q__",
@@ -120,7 +119,5 @@
       "src": "https://www.youtube.com/embed/fmu1LQvZhms?si=a5BrON5_Tp6VV1Xh",
       "id": "13"
     }
-
-    
   ]
 }
